@@ -3,7 +3,7 @@
 <h2>Esse foi um projeto que eu aprendi no <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
 <br>
 <h1>Sobre o projeto<h1>  
-<h2>Objetivo é trazer informações sobre o clima de todas as regiões do planeta.  
+<h2>Objetivo é trazer informações sobre a temperatura e condição do clima para todas as regiões do Mundo.  
 <br>   
 <br>   
 <h1> Tecnologias utilizadas<h2>
