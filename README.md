@@ -1,6 +1,4 @@
 <h1>Previsão do Tempo</h1>
-
-<h2>Esse foi um projeto que eu aprendi no <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
 <br>
 <h1>Sobre o projeto<h1>  
 <h2>Objetivo é trazer informações sobre a temperatura e condição do clima para qualquer cidade selecionada pelo usuário.  
